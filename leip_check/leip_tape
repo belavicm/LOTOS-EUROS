@@ -1,0 +1,3 @@
+#!/bin/bash
+# save path of all available meteo files to file "LEIP.archive"
+els -R /nl5/LEIP/europe_w30e70s5n75/ECMWF/ > LEIP.archive
